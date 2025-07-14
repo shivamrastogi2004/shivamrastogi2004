@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> Courses:
 --> https://stanford.edu/~shervine/
---> 
+- IBM GeN AI course: https://damminhtien.notion.site/19ad5cc29c22806b82c8f40239d197e9?v=1b8d5cc29c22808a919f000c3da9bc24
 
